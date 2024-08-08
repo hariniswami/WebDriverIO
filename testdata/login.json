@@ -1,0 +1,22 @@
+{
+
+
+"searchitem": {
+
+"products":  "jacket"
+
+
+
+},
+
+"api": {
+
+"endpoint": "https://dummy.restapiexample.com/api/v1/employees"
+
+}
+
+
+
+
+
+}
